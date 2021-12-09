@@ -1,4 +1,3 @@
-
 $randomQuotesUser = 'svcRandomQuotes_Local'
 $randomQuotesPassword = 'Password01!'
 $randomQuotesDatabase = 'RandomQuotes_Local'
